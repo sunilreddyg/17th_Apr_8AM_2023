@@ -74,23 +74,8 @@ user accetance test[UAT]:-->
 			Some times client release software to real 
 			public as free Source.With intension to 
 			findout defects with in software...
-============================================================================================================================
-				
-STLC:--> Software testing life cycle
-		
 
-	Qa Signin
-		Test initiation   	[Test Manager]		
-		Test plan		[Test Lead]
-		Test design		[Test Engineers]
-		Test Execution		[Test Engineers]
-		Defect Tracking		[Test Engineers]
-		Defect Reporting	[Test Engineers]
-		Test metrix
-	QA-Signoff
-================================================================================================================
-
-
+	CAT:--> Customer acceptance test
 
 
 
